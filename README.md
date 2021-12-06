@@ -1,6 +1,8 @@
-Hi!
+<h1 align="center">Hi, I'm Brady!</h1>
+<br>
 
-![bexoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexoo&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bexoo)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bexoo&count_private=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bexoo" width = 400>
+</p>
 
