@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Brady!</h1>
+<h1 align="center">Hi!</h1>
 <br>
 
 <p align = "center">
